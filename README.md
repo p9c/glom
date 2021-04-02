@@ -2,7 +2,7 @@
 
 A code editor for the visual thinkers
 
-Glom is a text editor makes restructuring deeply structured documents easy to
+Glom is a text editor makes structured documents easy to
 create and change. Many text editors now allow you to select text and drag it
 around, but almost without exception, a couple of stray keypresses can turn a
 neat 20 level hierarchy of brackets into spaghetti covered in nasty red syntax
@@ -22,3 +22,7 @@ user interface code.
 Not only that, but in addition to code, Glom makes it simple to annotate 
 documents, allowing detailed side-by-side documentation and code.
 
+Lastly, the undo buffer branches instead of truncating previous edits off the
+tree, it provides a cue to indicate that you can fork and get back on a 
+different timeline entirely, without losing the old, as a temporarily visible 
+represetation of the graph of edits.
