@@ -90,9 +90,6 @@ github.com/p9c/opts/meta
 github.com/p9c/opts/opt
 github.com/p9c/opts/text
 # github.com/p9c/pod v1.9.25
-## explicit
-github.com/p9c/pod/pkg/appdata
-github.com/p9c/pod/pkg/apputil
 github.com/p9c/pod/pkg/logg
 github.com/p9c/pod/pkg/util/qu
 github.com/p9c/pod/version
