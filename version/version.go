@@ -5,18 +5,18 @@ import "fmt"
 var (
 
 	// URL is the git URL for the repository
-	URL = "github.com/p9c/duod"
+	URL = "github.com/p9c/glom"
 	// GitRef is the gitref, as in refs/heads/branchname
-	GitRef = "refs/heads/master"
+	GitRef = "refs/heads/trunk"
 	// GitCommit is the commit hash of the current HEAD
-	GitCommit = "b512313e6a14903710f0cb3567215859960496f9"
+	GitCommit = "e806243227a7152893abd03a911b4ee177102b15"
 	// BuildTime stores the time when the current binary was built
-	BuildTime = "2021-04-02T04:25:28+02:00"
+	BuildTime = "2021-04-02T19:58:43+02:00"
 	// Tag lists the Tag on the build, adding a + to the newest Tag if the commit is
 	// not that commit
 	Tag = "+"
 	// PathBase is the path base returned from runtime caller
-	PathBase = "/home/loki/src/github.com/p9c/duod/"
+	PathBase = "/home/loki/src/github.com/p9c/glom/"
 )
 
 // Get returns a pretty printed version information string
