@@ -8,6 +8,6 @@ var commands = map[string][]string{
 		"go install -v %ldflags",
 	},
 	"builder": {
-		"go install -v %ldflags ./cmd/build/.",
+		"go install -v %ldflags ./cmd/stroy/.",
 	},
 }

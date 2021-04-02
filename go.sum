@@ -1,7 +1,7 @@
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 gioui.org v0.0.0-20201229000053-33103593a1b4/go.mod h1:Y+uS7hHMvku1Q+ooaoq6fYD5B2LGoT8JtFgvmYmRzTw=
-gioui.org v0.0.0-20210401145002-9d7b57f74aac h1:T1MAGd9tQfKsa3fxLIqDAppahbSZa+kbV7JhiAnklqM=
-gioui.org v0.0.0-20210401145002-9d7b57f74aac/go.mod h1:RSH6KIUZ0p2xy5zHDxgAM4zumjgTw83q2ge/PI+yyw8=
+gioui.org v0.0.0-20210402163312-b77c1628f3e3 h1:otFT40u6nCWqTBl8qVVMsnqbwvTroAIycEVDASr1Nw8=
+gioui.org v0.0.0-20210402163312-b77c1628f3e3/go.mod h1:RSH6KIUZ0p2xy5zHDxgAM4zumjgTw83q2ge/PI+yyw8=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/BurntSushi/xgb v0.0.0-20200324125942-20f126ea2843 h1:3iF31c7rp7nGZVDv7YQ+VxOgpipVfPKotLXykjZmwM8=
@@ -76,8 +76,8 @@ github.com/onsi/ginkgo v1.12.1/go.mod h1:zj2OWP4+oCPe1qIXoGWkgMRwljMUYCdkwsT2108
 github.com/onsi/gomega v1.4.1/go.mod h1:C1qb7wdrVGGVU+Z6iS04AVkA3Q65CEZX59MT0QO5uiA=
 github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7JYyY=
 github.com/onsi/gomega v1.9.0/go.mod h1:Ho0h+IUsWyvy1OpqCwxlQ/21gkhVunqlU8fDGcoTdcA=
-github.com/p9c/gel v0.1.5 h1:1dkZ1wKXcPDVOoXDzePl/VKU+D/4/RTWUor8+JP2p08=
-github.com/p9c/gel v0.1.5/go.mod h1:1FgrMU5wu4gT+zlgNn9nm76z+g27iUM83mtx4iJDCjA=
+github.com/p9c/gel v0.1.9 h1:Ml5kAEnbnrBMQ2eSYJj7ojcppnws68VTP8qYj6ok/EU=
+github.com/p9c/gel v0.1.9/go.mod h1:PiSNTKnBy98Xh0XpY7lKdpyvARWl2U3oFGA9TyT8LJU=
 github.com/p9c/interrupt v0.0.1 h1:usufuMo7Jeiv4WRqjaoT043v4CXdYb0YhEC8MWbabgc=
 github.com/p9c/interrupt v0.0.1/go.mod h1:qnYAL25kK1wkG/rNWcNXrlkT5kNBHEDtri/qRB0/fas=
 github.com/p9c/log v0.0.5/go.mod h1:BQGlR1Qg9Mylv6AQu3HGC2hpdR07gvYN2KlpYLMRzVI=
