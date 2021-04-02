@@ -26,3 +26,7 @@ Lastly, the undo buffer branches instead of truncating previous edits off the
 tree, it provides a cue to indicate that you can fork and get back on a 
 different timeline entirely, without losing the old, as a temporarily visible 
 represetation of the graph of edits.
+
+Instead of storing the document formatted, it continuously records input and 
+replays the chains of events at the will of the user, it is assembled only for 
+display and transmission.
